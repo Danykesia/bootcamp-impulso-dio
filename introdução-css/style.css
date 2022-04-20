@@ -1,8 +1,9 @@
 
 body {
   background-color: rgb(239, 239, 239);
-  max-width: 1024px;
+  max-width: 1020px;
   margin: auto;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .avatar {
@@ -23,6 +24,7 @@ body {
   background-color: #fff;
   padding: 15px;
   border: 2px solid rgb(202, 26, 129);
+  max-width: 1020px;
   border-radius: 10px;
   margin-bottom: 15px;
 }
